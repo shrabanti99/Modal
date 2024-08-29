@@ -1,0 +1,22 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .Btn,
+  .submit-button {
+    background-color: blue;
+    opacity: 0.8;
+    border-radius: 5px;
+    color: white;
+    width: 100px;
+    height: 25px;
+  }
+  
+  .parent{
+     display: flex;
+     flex-direction: column;
+     justify-content:center;
+     align-items: center;
+
+   }
